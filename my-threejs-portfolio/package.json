@@ -13,8 +13,9 @@
   },
   "dependencies": {
     "@dimforge/rapier3d": "^0.16.0",
+    "gsap": "^3.13.0",
     "lil-gui": "^0.19.2",
-    "three": "^0.176.0",
+    "three": "^0.181.2",
     "vite-plugin-top-level-await": "^1.4.1"
   }
 }
